@@ -1,4 +1,4 @@
-The Rainbow Part 2
+The Rainbow and the Unicorn
 Red
 Orange
 Yellow
@@ -8,3 +8,5 @@ Indigo
 Violet
 
 These are the ordered colors of the rainbow
+
+Look!! Here comes a unicorn and he is sitting under the rainbow
