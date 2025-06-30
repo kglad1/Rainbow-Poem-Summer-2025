@@ -7,4 +7,4 @@ Blue
 Indigo
 Violet
 
-These are the colors of the rainbow
+These are the ordered colors of the rainbow
