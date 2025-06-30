@@ -1,8 +1,10 @@
 The Rainbow Part 2
 Red
-Blue
-Yellow
 Orange
-Purple
+Yellow
 Green
+Blue
+Indigo
+Violet
+
 These are the colors of the rainbow
